@@ -1,6 +1,7 @@
 # CLI for live-streaming your local dev environment
 
 ![node](https://img.shields.io/node/v/scrimba.svg) ![https://join.slack.com/t/scrimba/shared_invite/enQtNDE4MzY0NDY3NzkyLWFhMzg1YzQ4ZWIwOGMyYzhiZTYxMmEyZTAzMTE5ZTBmMzE4ZDA5ZjM1N2ZjMDZjMmE5M2M4ZDNkN2JjNGM2YzQ](https://img.shields.io/badge/slack-join%20chat-brightgreen.svg?longCache=true&style=flat&logo=slack) 
+
 Scrimba is a screen sharing tool for developer teams. It's command line-based and allows you to do the following:
 
 * **Live stream** your local dev environment to a URL

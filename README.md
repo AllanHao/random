@@ -28,14 +28,15 @@ This will open the `my-awesome-project` folder as a _scrim_ in Chrome, which wil
 
 To invite a colleague to collaborate with you simply share the URL and you'll both be able to work on your local codebase while discussing via voice chat.
 
-## Features
+## All features
 
 * **Codebase**, terminal and browser sharing
 * **Real-time** collaboration
-* **Mouse pointer** for each participany
+* **Mouse pointer** for each participant
 * **Voice** chat
 * **Conferences** (up to 4 people)
 * **Record** sessions
+* **Dashboard** for recorded sessions
 
 ## Feedback
 

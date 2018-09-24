@@ -47,6 +47,7 @@ prebuild-install WARN install EACCES: permission denied, mkdir '/path/to/node_mo
 sudo npm install -g scrimba --unsafe-perm
 
 
+
 ```
 
 [Scrimba](https://scrimba.com:9000/@welcome) let's you live-stream your local dev environment to a URL. Share the link it with a colleague and you'll be able to collaborate in real-time while discussing via voice chat. You can also record the session and re-watch it whenever you want.

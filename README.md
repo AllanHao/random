@@ -1,6 +1,6 @@
+# CLI for live-streaming your local dev environment
 
-[![Slack Status](https://slack.scrimba.com/badge.svg)](https://scrimba.com)
-
+![node](https://img.shields.io/node/v/scrimba.svg) ![https://join.slack.com/t/scrimba/shared_invite/enQtNDE4MzY0NDY3NzkyLWFhMzg1YzQ4ZWIwOGMyYzhiZTYxMmEyZTAzMTE5ZTBmMzE4ZDA5ZjM1N2ZjMDZjMmE5M2M4ZDNkN2JjNGM2YzQ](https://img.shields.io/badge/slack-join%20chat-green.svg?longCache=true&style=flat&logo=slack) [![Twitter Follow](https://img.shields.io/twitter/follow/scrimba_com.svg?style=social&label=Follow)](https://twitter.com/scrimba_com)
 Scrimba is a screen sharing tool tailored specifically for developer teams. With this CLI you'll be able to:
 * **Live stream** your local dev environment to a URL
 * **Collaborate** with colleagues in real-time while discussion via voice chat
@@ -19,11 +19,10 @@ $ cd my-awesome-project
 $ scrimba start
 ```
 
-This opens your project as a _scrim_ in your browser, which looks like this:
+This will open the `my-awesome-project` folder as a _scrim_ in Chrome, which will look something like this:
 
 ![](https://i.imgur.com/hDwDZ4l.png)
-
-Share the URL with a colleagues and you'll be able to collaborate in real-time while discussing via voice chat.
+To invite a colleague to collaborate with you simply share the URL and you'll both be able to work on your local codebase while discussing via voice chat.
 
 ### Features
 

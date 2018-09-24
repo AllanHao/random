@@ -4,7 +4,7 @@
 
 Scrimba is a screen sharing tool tailored specifically for developer teams. With this CLI you'll be able to:
 * **Live stream** your local dev environment to a URL
-* **Collaborate** with colleagues in real-time while discussion via voice chat
+* **Collaborate** in real-time and discuss via voice chat
 * **Keep a recording** of the session and share it with your team
 
 ## Quick-start

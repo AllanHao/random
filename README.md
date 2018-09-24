@@ -1,7 +1,6 @@
 # CLI for live-streaming your local dev environment
 
-![node](https://img.shields.io/node/v/scrimba.svg) ![https://join.slack.com/t/scrimba/shared_invite/enQtNDE4MzY0NDY3NzkyLWFhMzg1YzQ4ZWIwOGMyYzhiZTYxMmEyZTAzMTE5ZTBmMzE4ZDA5ZjM1N2ZjMDZjMmE5M2M4ZDNkN2JjNGM2YzQ](https://img.shields.io/badge/slack-join%20chat-green.svg?longCache=true&style=flat&logo=slack) [![Twitter Follow](https://img.shields.io/twitter/follow/scrimba_com.svg?style=social&label=Follow)](https://twitter.com/scrimba_com)
-
+![node](https://img.shields.io/node/v/scrimba.svg) ![https://join.slack.com/t/scrimba/shared_invite/enQtNDE4MzY0NDY3NzkyLWFhMzg1YzQ4ZWIwOGMyYzhiZTYxMmEyZTAzMTE5ZTBmMzE4ZDA5ZjM1N2ZjMDZjMmE5M2M4ZDNkN2JjNGM2YzQ](https://img.shields.io/badge/slack-join%20chat-brightgreen.svg?longCache=true&style=flat&logo=slack) 
 Scrimba is a screen sharing tool for developer teams. It's command line-based and allows you to do the following:
 
 * **Live stream** your local dev environment to a URL
@@ -40,7 +39,7 @@ Now you'll be able to interact with your local workspace via this _scrim_. This 
 
 ## Feedback
 
-This is an experimental feature, and you're likely to encounter bugs. Please report any bugs, quirks, or invconveniences to us via our [Slack group](https://scrimba.slack.com/), as it'll help us improve the experience. We'd also love to hear any suggestions you might have.
+This is an experimental feature, and you're likely to encounter bugs. Please report any bugs, quirks, or invconveniences to us via our [Slack group](https://scrimba.slack.com/), as it'll help us improve the experience. We'd also love to hear any suggestions you might have. You can also follow us reach out at [Twitter](https://twitter.com/scrimba_com).
 
 ## Limitations
 * Currently only works with Google Chrome

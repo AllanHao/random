@@ -26,7 +26,7 @@ This will open the `my-awesome-project` folder as a _scrim_ in Chrome, which wil
 
 ![](https://i.imgur.com/hDwDZ4l.png)
 
-To invite a colleague to collaborate with you simply share the URL and you'll both be able to work on your local codebase while discussing via voice chat.
+Now you'll be able to interact with your local workspace via this _scrim_. This means that you can edit and save files, and run commands in the terminal. To start collaborating, simply share the URL with a colleague and she'll be able to jump into your local workspace instantly.
 
 ## All features
 

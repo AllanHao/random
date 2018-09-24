@@ -6,7 +6,7 @@ Scrimba is a screen sharing tool tailored specifically for developer teams. With
 * **Collaborate** with colleagues in real-time while discussion via voice chat
 * **Keep a recording** of the session and share it with your team
 
-### Quick-start
+## Quick-start
 Follow the three steps below to start live-streaming instantly.
 ```bash
 # install the CLI
@@ -24,7 +24,7 @@ This will open the `my-awesome-project` folder as a _scrim_ in Chrome, which wil
 ![](https://i.imgur.com/hDwDZ4l.png)
 To invite a colleague to collaborate with you simply share the URL and you'll both be able to work on your local codebase while discussing via voice chat.
 
-### Features
+## Features
 
 * Codebase, terminal and browser sharing
 * Real-time collaboration

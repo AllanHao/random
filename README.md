@@ -8,7 +8,7 @@ Scrimba is a screen sharing tool for developer teams. It's command line-based an
 * **Collaborate** in real-time and discuss via voice chat
 * **Keep a recording** of the session afterwards
 
-The most popular use-cases are code review, onbarding sessions, general code discussions and documentation. 
+The most popular use-cases are code review, onbarding and documentation. 
 
 ## Quick-start
 ```bash

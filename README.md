@@ -32,9 +32,9 @@ To invite a colleague to collaborate with you simply share the URL and you'll bo
 * **Codebase**, terminal and browser sharing
 * **Real-time** collaboration
 * **Mouse pointer** for each participany
-* Voice chat
-* Up to 4 participants
-* Record sessions
+* **Voice** chat
+* **Conferences** (up to 4 people)
+* **Record** sessions
 
 ## Feedback
 

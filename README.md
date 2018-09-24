@@ -25,6 +25,7 @@ $ scrimba start
 This will open the `my-awesome-project` folder as a _scrim_ in Chrome, which will look something like this:
 
 ![](https://i.imgur.com/hDwDZ4l.png)
+
 To invite a colleague to collaborate with you simply share the URL and you'll both be able to work on your local codebase while discussing via voice chat.
 
 ## Features
